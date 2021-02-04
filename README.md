@@ -1,5 +1,6 @@
 # Slope + Desert Bus = Processing Slope
 
+To play the game, download the currently non-existent .exe or .dmg file or load the .pde in Processing.
 
 
 
